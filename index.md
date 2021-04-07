@@ -24,9 +24,9 @@
 
 
 ### 챗봇 제작자
-서울 소재 초등학교 현직 보건교사
+- 서울 소재 초등학교 현직 보건교사
 
 ### 참고자료
-2015 한국형 심폐소생술 가이드라인_일반인용
-함께하는 보건5(YBM)
-[린이랑 건강하게 YOUTUBE Channel](https://www.youtube.com/channel/UCwIRsJMyT0ku1sxfF4Ntt1A)
+- 2015 한국형 심폐소생술 가이드라인_일반인용
+- 함께하는 보건5(YBM)
+- [린이랑 건강하게 YOUTUBE Channel](https://www.youtube.com/channel/UCwIRsJMyT0ku1sxfF4Ntt1A)
