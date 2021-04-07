@@ -5,7 +5,7 @@
 초등학교 5학년 학생을 대상으로 심폐소생술 교육 시 또래 보조 교사의 역할을 합니다.
 심장마비가 발생한 사람을 최초로 발견한 사람이 구조를 요청하고 심폐소생술을 하는 과정인 기본 소생술에 대해 교육합니다.
 
-![1단계](https://user-images.githubusercontent.com/72488320/113853945-410cfe00-97d9-11eb-948e-92a55eb4e8ab.PNG)
+![가슴압박소생술](https://user-images.githubusercontent.com/72488320/113854528-eaec8a80-97d9-11eb-84ab-7f9c292b079f.PNG)
 
 
 ### 교육 효과
