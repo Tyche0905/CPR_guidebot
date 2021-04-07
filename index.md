@@ -28,7 +28,8 @@
 
 ### 챗봇 제작자
 - 서울 소재 초등학교 현직 보건교사
-- ![보건교사_린](https://user-images.githubusercontent.com/72488320/113859503-ee831000-97df-11eb-9907-a92f88fec1ff.png)
+- ![보건교사_린(축소)](https://user-images.githubusercontent.com/72488320/113860062-93055200-97e0-11eb-8699-51efbb31ebf6.png)
+
 
 ### 참고자료
 - 2015 한국형 심폐소생술 가이드라인_일반인용
