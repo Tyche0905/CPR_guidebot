@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## 심폐소생술 가이드봇
 
-You can use the [editor on GitHub](https://github.com/Tyche0905/CPR_Guidebot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+심폐소생술 가이드 챗봇입니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+초등학교 5학년 학생을 대상으로 심폐소생술 교육 시 또래 보조 교사의 역할을 합니다.
+심장마비가 발생한 사람을 최초로 발견한 사람이 구조를 요청하고 심폐소생술을 하는 과정인 기본 소생술에 대해 교육합니다.
 
-### Markdown
+### 교육 활용 방법
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+# 주제: 생명을 구하는 심폐소생술
+## 학습목표
+- 심폐소생술의 중요성을 설명할 수 있다.
+- 심폐 소생술의 순서와 방법을 알고 올바르게 시연할 수 있다.
+## 과제
+- 심장마비 환자를 발견하였을 때 실시하는 응급처치 방법에 대하여 햇봇과의 대화를 통해 자료를 모으고, 학습한 내용을 정리하여 과제물을 완성하여 제출해야 합니다.
+## 평가기준
+- 심폐소생술의 중요성을 설명하고 순서와 방법에 맞게 시연할 수 있다.(잘함/보통/노력필요)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### 챗봇 제작자
+서울 소재 초등학교 현직 보건교사
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Tyche0905/CPR_Guidebot/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 참고자료
+2015 한국형 심폐소생술 가이드라인_일반인용
+함께하는 보건5(YBM)
+[린이랑 건강하게 YOUTUBE Channel](https://www.youtube.com/channel/UCwIRsJMyT0ku1sxfF4Ntt1A)
