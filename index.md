@@ -1,6 +1,7 @@
 ## 심폐소생술 가이드 챗봇: 하트세이버!
 
-![cprchatbot_축소](https://user-images.githubusercontent.com/72488320/118119212-fd855f80-b428-11eb-868b-88ffe867a0a5.jpg)
+![cprchatbot_축소](https://user-images.githubusercontent.com/72488320/118120424-d596fb80-b42a-11eb-9908-8398c1c4488b.png)
+
 반갑습니다! 심폐소생술 가이드 챗봇, 하트세이버입니다.
 
  하트세이버는 초등학교 5학년 학생을 대상으로 심폐소생술 교육 시 **또래 보조 교사**의 역할을 합니다.
