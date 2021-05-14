@@ -1,6 +1,6 @@
 ## 심폐소생술 가이드 챗봇: 하트세이버!
 
-<img src='https://user-images.githubusercontent.com/72488320/118121354-530f3b80-b42c-11eb-8d63-449390a01852.png' width='250' height='250'>
+<img src='https://user-images.githubusercontent.com/72488320/118203518-32c89680-b497-11eb-9aed-c5508f3ad36a.png' width='250' height='250'>
 
 반갑습니다! **심폐소생술 가이드 챗봇, 하트세이버**입니다.
 
