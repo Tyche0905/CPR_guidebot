@@ -25,8 +25,8 @@
 
 ## 활동ㅠ
 1. 심폐소생술 가이드 챗봇 ‘하트세이버’와 대화하기
- - 하트세이버 소개 영상 시청한다.![소개 영상](https://www.youtube.com/watch?v=TW4FkBAFkYw&t=3s)
- - 챗봇과 대화하며 탐색한 정보들을 활동지에 정리한다.![활동지](https://tyche0905.github.io/CPR_guide)
+ - 하트세이버 소개 영상 시청한다.[소개영상](https://www.youtube.com/watch?v=TW4FkBAFkYw&t=3s)
+ - 챗봇과 대화하며 탐색한 정보들을 활동지에 정리한다.[활동지](https://tyche0905.github.io/CPR_guide)
 2. 심폐소생술 실습하기
  - 두 명씩 짝을 이루어 실습한다.
  - 심폐소생술을 순서에 따라 실습해보고 실시여부를 점검한다.
