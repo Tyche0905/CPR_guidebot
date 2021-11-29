@@ -41,7 +41,7 @@
 
 ### 챗봇 제작자
 - 현직 초등학교 보건교사
-- ![린이랑건강하게_축소](https://user-images.githubusercontent.com/72488320/113984025-9999d500-9885-11eb-81e7-b22f4345c7f3.png)
+- <img src='https://user-images.githubusercontent.com/72488320/143814474-9037206f-8b72-4333-91bd-06e1f93695dd.png' width='250' height='250'>
 
 
 ### 참고자료
