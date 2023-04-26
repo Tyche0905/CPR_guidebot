@@ -41,7 +41,7 @@
 
 ### 챗봇 제작자
 - 현직 초등학교 보건교사
-- <img src='https://user-images.githubusercontent.com/72488320/234489888-de8390e0-3729-49d1-ab32-27a4c491dcaf.png' width='166' height='238'>
+<img src='https://user-images.githubusercontent.com/72488320/234489888-de8390e0-3729-49d1-ab32-27a4c491dcaf.png' width='166' height='238'>
 
 
 ### 참고자료
