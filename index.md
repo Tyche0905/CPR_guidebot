@@ -1,6 +1,6 @@
 ## 심폐소생술 가이드 챗봇: 하트세이버!
 
-<img src='https://user-images.githubusercontent.com/72488320/118203518-32c89680-b497-11eb-9aed-c5508f3ad36a.png' width='250' height='250'>
+<img src='https://user-images.githubusercontent.com/72488320/234489360-820e7102-712f-4f09-ae07-48328fdb337d.png' width='250' height='250'>
 
 반갑습니다! **심폐소생술 가이드 챗봇, 하트세이버**입니다.
 
@@ -25,8 +25,8 @@
 
 ## 활동
 1. 심폐소생술 가이드 챗봇 ‘하트세이버’와 대화하기
- - 하트세이버 소개 영상 시청한다.[소개영상](https://www.youtube.com/watch?v=TW4FkBAFkYw&t=3s)<클릭!
- - 챗봇과 대화하며 탐색한 정보들을 활동지에 정리한다.[활동지](https://docs.google.com/document/d/19rmAqvKD1Q_lGoPokL4oo5PXyPHYqQjT/edit?usp=sharing&ouid=117043477565419924608&rtpof=true&sd=true)<클릭!
+ - 하트세이버 소개 영상 시청한다.★[소개영상](https://www.youtube.com/watch?v=TW4FkBAFkYw&t=3s)<클릭!
+ - 챗봇과 대화하며 탐색한 정보들을 활동지에 정리한다.★[활동지](https://docs.google.com/document/d/19rmAqvKD1Q_lGoPokL4oo5PXyPHYqQjT/edit?usp=sharing&ouid=117043477565419924608&rtpof=true&sd=true)<클릭!
 2. 심폐소생술 실습하기
  - 두 명씩 짝을 이루어 실습한다.
  - 심폐소생술을 순서에 따라 실습해보고 실시여부를 점검한다.
@@ -41,7 +41,7 @@
 
 ### 챗봇 제작자
 - 현직 초등학교 보건교사
-- <img src='https://user-images.githubusercontent.com/72488320/143814474-9037206f-8b72-4333-91bd-06e1f93695dd.png' width='250' height='250'>
+- <img src='https://user-images.githubusercontent.com/72488320/234489888-de8390e0-3729-49d1-ab32-27a4c491dcaf.png' width='250' height='250'>
 
 
 ### 참고자료
