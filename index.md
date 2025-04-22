@@ -3,8 +3,8 @@
 <img src='https://i.imgur.com/2vya9of.png' width='256' height='384'>
 
 나는 **심폐소생술을 알려주는 챗봇, 하트세이버**야.
- 
- 만약.. 소중한 사람이 갑자기 쓰러진다면 나는 어떻게 해야 할까? 나와 대화하면서 배워보자~!
+만약.. 소중한 사람이 갑자기 쓰러진다면 나는 어떻게 해야 할까?
+함께 알아보자~!
 
 ![가슴압박소생술](https://user-images.githubusercontent.com/72488320/113854528-eaec8a80-97d9-11eb-84ab-7f9c292b079f.PNG)
 
